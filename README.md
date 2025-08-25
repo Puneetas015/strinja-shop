@@ -47,13 +47,10 @@ Strinja.Shop was the proud winner of Google Winter of Code (GWOC’24), recogniz
 
 To get started with Strinja.Shop, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/yashitz07/Strinja`
+1. Clone the repository: `git clone https://github.com/Puneetas015/Strinja-Shop`
 2. Install dependencies: `npm install`
 3. Run the development server: `npm start`
 4. Access the website locally server side at `http://localhost:5000`
 5. Access the website locally client side at `http://localhost:5173`
 6. For running client side command : `npm run dev`
 
-## License
-
-This project is licensed under the [MIT License](link/to/license).
