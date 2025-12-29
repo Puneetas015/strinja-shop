@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="/mern-client/public/favicon-1.svg" alt="Strinja.Shop Logo" width="100" height="100">
-</p>
+
 
 <h1 align="center">Strinja.Shop</h1>
 <p align="center"><em>Crafted with love for a local business specializing in unique nail and string art</em></p>
